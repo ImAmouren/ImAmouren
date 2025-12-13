@@ -1,6 +1,4 @@
-<div align=center>
-  ### nihao
-</div>
+
 <div align=center>
   <img   align="center" src="https://github-readme-stats.vercel.app/api?username=ImAmouren&locale=zh-              tw&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=default"/>
   
