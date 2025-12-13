@@ -2,6 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/youtube-amouren-red?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40Amouren)
 ![Static Badge](https://img.shields.io/badge/steam-amouren-8A2BE2?style=for-the-badge&logo=steam&link=https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561198816212793%2F)
 
+![Static Badge](https://img.shields.io/badge/OSU-amouren-FF8EE6?style=for-the-badge&logo=osu&cacheSeconds=https%3A%2F%2Fosu.ppy.sh%2Fusers%2F27052406)
 
 <!--
 **baddzse233/baddzse233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
