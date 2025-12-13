@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/youtube-amouren-red?style=for-the-badge&logo=youtube)
 
 ![Static Badge](https://img.shields.io/badge/steam-amouren-8A2BE2?style=for-the-badge&logo=steam)
-![Static Badge](https://img.shields.io/badge/OSU-amouren-FF8EE6?style=for-the-badge&logo=osu)
+![Static Badge](https://img.shields.io/badge/OSU-itzamouren-FF8EE6?style=for-the-badge&logo=osu)
 
 <!--
 **baddzse233/baddzse233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
