@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/bilibili-%E6%88%90%E5%88%86%E5%A4%8D%E6%9D%82%E7%9A%84A%E6%9F%90%E4%BA%BA-blue?style=for-the-badge&logo=bilibili&link=https%3A%2F%2Fspace.bilibili.com%2F270040454)
 ![Static Badge](https://img.shields.io/badge/youtube-amouren-red?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40Amouren)
-![Static Badge](https://img.shields.io/badge/steam-amouren-8A2BE2?style=for-the-badge&logo=steam&link=https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561198816212793%2F)
 
+![Static Badge](https://img.shields.io/badge/steam-amouren-8A2BE2?style=for-the-badge&logo=steam&link=https%3A%2F%2Fsteamcommunity.com%2Fprofiles%2F76561198816212793%2F)
 ![Static Badge](https://img.shields.io/badge/OSU-amouren-FF8EE6?style=for-the-badge&logo=osu&cacheSeconds=https%3A%2F%2Fosu.ppy.sh%2Fusers%2F27052406)
 
 <!--
