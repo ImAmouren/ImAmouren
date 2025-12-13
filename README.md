@@ -1,4 +1,8 @@
-![Static Badge](https://img.shields.io/badge/bilibili-amouren?style=for-the-badge)
+
+<div align="center">
+![Static Badge](https://img.shields.io/badge/bilibili-amouren-blue?style=for-the-badge)
+
+</div>
 
 <!--
 **baddzse233/baddzse233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
