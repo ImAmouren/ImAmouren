@@ -1,13 +1,4 @@
 
-<div align=center>
-  <img   align="center" src="https://github-readme-stats.vercel.app/api?username=ImAmouren&locale=zh-              tw&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=default"/>
-  
-</div>
-<div id="img" align=center>
-  ![Static Badge](https://img.shields.io/badge/BiliBili-%E6%88%90%E5%88%86%E5%A4%8D%E6%9D%82%E7%9A%84A%E6%9F%90%E4%BA%BA-blue?style=for-the-badge)
-
-
-</div>
 <!--
 **baddzse233/baddzse233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
